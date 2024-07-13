@@ -1,0 +1,9 @@
+Source: turbo-php
+Package: turbo-php
+Priority: optional
+Version: 8.2.0
+Section: web
+Maintainer: CloudVision Ltd.
+Homepage: https://www.turbopanel.com
+Architecture: amd64
+Description: Turbo Panel PHP
